@@ -1,0 +1,10 @@
+{
+    "MODULE-REPORT": {
+        "plain-text": "Plain Text",
+        "unsup-format": "Unsupported format selected.",
+        "export": "Export",
+        "cancel": "Cancel",
+        "button-title": "Export Module List",
+        "dialog-title": "Output Format"
+    }
+}
