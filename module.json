@@ -7,7 +7,7 @@
         "name": "huner2"
       }
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "compatibility": {
       "minimum": "12",
       "verified": "12"
@@ -24,6 +24,6 @@
     ],
     "manifest": "https://raw.githubusercontent.com/huner2/module-list-export/main/module.json",
     "url": "https://github.com/huner2/module-list-export",
-    "download": "https://github.com/huner2/module-list-export/archive/refs/tags/1.0.1.zip",
+    "download": "https://github.com/huner2/module-list-export/archive/refs/tags/1.0.2.zip",
     "license": "https://raw.githubusercontent.com/huner2/module-list-export/main/LICENSE"
 }

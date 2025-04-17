@@ -1,10 +1,8 @@
 {
-    "MODULE-LIST": {
-        "plain-text": "Plain Text",
-        "unsup-format": "Unsupported format selected.",
-        "export": "Export",
-        "cancel": "Cancel",
-        "button-title": "Export Module List",
-        "dialog-title": "Output Format"
-    }
+    "MODULE-LIST.plain-text": "Plain Text",
+    "MODULE-LIST.unsup-format": "Unsupported format selected.",
+    "MODULE-LIST.export": "Export",
+    "MODULE-LIST.cancel": "Cancel",
+    "MODULE-LIST.button-title": "Export Module List",
+    "MODULE-LIST.dialog-title": "Output Format"
 }
