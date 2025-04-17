@@ -6,3 +6,5 @@ A FoundryVTT module to export a list of all installed modules with the following
 - Version
 
 This package is useful for keeping track of installed modules and their versions, especially when sharing your FoundryVTT setup with others or when you want to keep a record of your module collection.
+
+The export can be started in the settings tab of the sidebar.
