@@ -110,7 +110,12 @@ const handleClick = () => {
 Hooks.once("ready", () => {
     const settingsBar = document.querySelector(".settings-sidebar");
     if (settingsBar) {
-        const gameSubmenu = settingsBar.querySelector("#settings-game");
+        let gameSubmenu = settingsBar.querySelector("#settings-game");
+        if (game.version.startsWith("12.")) {
+            gameSubmenu = settingsBar.querySelector("#settings-game");
+        } else {
+            gameSubmenu = settingsBar.querySelector(".settings");
+        }
         if (gameSubmenu) {
             const reportButton = document.createElement("button");
             reportButton.type = "button";
